@@ -48,7 +48,7 @@ namespace Assignment_6_4
             Console.ReadLine();
 
             // Rotate the matrix
-            Console.WriteLine("\nHere is the rotated matrix. Press enter to see another matrix");
+            Console.WriteLine("\nHere is the rotated matrix.");
             RotateMatrix(matrix4x4);
             PrintMatrix(matrix4x4);
             Console.ReadLine();
